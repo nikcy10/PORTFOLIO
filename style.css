@@ -875,7 +875,7 @@ button.contact-btn{
 @media(max-width: 550px){
 	/* Home Section */	
 	.hero .hero-text{
-		height: 140vh;
+		height: 240vh;
 		margin-top: 552px;
 	}
 	.hero .hero-image{
