@@ -811,7 +811,7 @@ button.contact-btn{
 	.about .about-desc{
 		flex-basis: 100%;
 		margin-left: 0px;
-		margin-top: 20px;
+		margin-top: 50px;
 	}
 	.about-desc .about-personal-info{
 		grid-template-columns: 1fr;
