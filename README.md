@@ -43,7 +43,7 @@ This website is hosted using GitHub Pages. To deploy your own version:
 
 ## Demo
 
-You can view a live demo of this portfolio at [https://example.com](https://nikcy10.github.io/PORTFOLIO).
+You can view a live demo of this portfolio [here](https://nikcy10.github.io/PORTFOLIO).
 
 ## License
 
